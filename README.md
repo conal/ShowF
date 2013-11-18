@@ -1,1 +1,1 @@
-Provides a Show-like class for functors
+Provides a Show-like class for * -> *.
