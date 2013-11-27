@@ -1,5 +1,5 @@
 Name:                ShowF
-Version:             0.1.0
+Version:             0.1.1
 Cabal-Version:       >= 1.6
 Synopsis:            Show for * -> *
 Category:            Text
@@ -9,6 +9,7 @@ Maintainer:          conal@conal.net
 Copyright:           (c) 2013 by Conal Elliott
 License:             BSD3
 License-File:        COPYING
+Homepage:            https://github.com/conal/ShowF/
 Stability:           experimental
 build-type:          Simple
 
